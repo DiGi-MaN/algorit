@@ -1,0 +1,6 @@
+﻿  ZAZY.cpp
+C:\Users\shino\Desktop\Отчет 1\ZAZY\ZAZY\ZAZY.cpp(3,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\shino\Desktop\Отчет 1\ZAZY\ZAZY\ZAZY.cpp(5,42): warning C4101: v: неиспользованная локальная переменная
+C:\Users\shino\Desktop\Отчет 1\ZAZY\ZAZY\ZAZY.cpp(5,38): warning C4101: j: неиспользованная локальная переменная
+C:\Users\shino\Desktop\Отчет 1\ZAZY\ZAZY\ZAZY.cpp(5,40): warning C4101: t: неиспользованная локальная переменная
+  ZAZY.vcxproj -> C:\Users\shino\Desktop\Отчет 1\ZAZY\Debug\ZAZY.exe
