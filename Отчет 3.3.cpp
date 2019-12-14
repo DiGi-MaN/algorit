@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿/*
+
+	Пример реализации шаблонов
+
+*/
+
+#include <iostream>
 using namespace std;
 
 template <class T>

@@ -1,4 +1,10 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+﻿/*
+
+	
+
+*/
+
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <string.h>
 using namespace std;
@@ -13,9 +19,11 @@ public: Tcont(int);
 template <class U> Tcont<U>::Tcont(int n) :ms(n) {
 	m_p = new U[ms];
 }
+
 template <class U> Tcont<U>::~Tcont() {
 	delete[]m_p;
 }
+
 template<class U> U& Tcont<U>::getE(int i) {
 	return (m_p[i+1]);
 }

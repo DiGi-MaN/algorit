@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿/*
+
+	Расчет площади прямоугольника, окружности и треугольника 
+
+*/
+
+#include <iostream>
 #include <math.h>
 using namespace std;
 class Base {

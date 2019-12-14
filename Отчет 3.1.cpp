@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿/*
+
+	Пример использования дружественной функции (friend)
+
+*/
+
+#include <iostream>
 using namespace std;
 class first {
 public:

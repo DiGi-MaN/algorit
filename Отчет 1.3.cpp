@@ -1,4 +1,12 @@
-﻿#include <iostream>
+﻿/*
+
+	Класс, описывающий массив данных
+	n - размер массива
+	*x - сам массив
+	
+*/
+
+#include <iostream>
 using namespace std;
 class mass {
 	int n, * x;

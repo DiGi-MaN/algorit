@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿/*
+
+	Вторая производная заданной функции
+
+*/
+
+#include <iostream>
 #include <math.h>
 using namespace std;
 class Base {

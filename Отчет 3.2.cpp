@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿/*
+
+	Что-то неизвестное
+
+*/
+
+#include <iostream>
 using namespace std;
 class first {
 public: int n;

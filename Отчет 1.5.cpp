@@ -1,4 +1,12 @@
-﻿#include <iostream>
+﻿/*
+
+	Реализация наследования классов на примере суммы двух чисел
+	a - первое число
+	b - второе число
+
+*/
+
+#include <iostream>
 using namespace std;
 class first {
 private:

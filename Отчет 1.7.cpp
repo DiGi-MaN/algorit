@@ -1,4 +1,11 @@
-﻿#include <iostream>
+﻿/*
+
+	Пример реализации виртуальной функции
+	Не дописано
+
+*/
+
+#include <iostream>
 using namespace std;
 
 class Base {

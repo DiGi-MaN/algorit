@@ -1,4 +1,14 @@
-﻿#include <iostream>
+﻿/*
+
+	Табулирование функции
+
+	xs - начальное значение функции
+	xk - конечное значение функции
+	dx - шаг
+
+*/
+
+#include <iostream>
 using namespace std;
 class Tab {
 private:

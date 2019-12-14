@@ -1,4 +1,12 @@
-﻿#include <iostream>
+﻿/*
+
+	Сортировка одномерного массива пузырьком
+	*n - массив
+	len - длина массива
+
+*/
+
+#include <iostream>
 using namespace std;
 class mas {
 private: int* n, len;

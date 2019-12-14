@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿/*
+
+	Использование шаблонов на примере массивов, содержащих разные данные
+
+*/
+
+#include <iostream>
 using namespace std;
 template<class T>
 class Arr {
